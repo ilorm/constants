@@ -1,0 +1,18 @@
+{
+  "name": "ilorm-constants",
+  "version": "0.1.0",
+  "description": "Core package to use shared constants with ilorm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plugin",
+    "delete",
+    "mongodb",
+    "orm",
+    "ilorm"
+  ],
+  "author": "guillaume DAIX",
+  "license": "MIT"
+}
